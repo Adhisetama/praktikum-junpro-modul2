@@ -1,0 +1,15 @@
+C:\Users\Azka Adhisetama\Documents\Modul2\praktikum-junpro-modul2\bin\Debug\net5.0\praktikum-junpro-modul2.exe
+C:\Users\Azka Adhisetama\Documents\Modul2\praktikum-junpro-modul2\bin\Debug\net5.0\praktikum-junpro-modul2.deps.json
+C:\Users\Azka Adhisetama\Documents\Modul2\praktikum-junpro-modul2\bin\Debug\net5.0\praktikum-junpro-modul2.runtimeconfig.json
+C:\Users\Azka Adhisetama\Documents\Modul2\praktikum-junpro-modul2\bin\Debug\net5.0\praktikum-junpro-modul2.runtimeconfig.dev.json
+C:\Users\Azka Adhisetama\Documents\Modul2\praktikum-junpro-modul2\bin\Debug\net5.0\praktikum-junpro-modul2.dll
+C:\Users\Azka Adhisetama\Documents\Modul2\praktikum-junpro-modul2\bin\Debug\net5.0\praktikum-junpro-modul2.pdb
+C:\Users\Azka Adhisetama\Documents\Modul2\praktikum-junpro-modul2\obj\Debug\net5.0\praktikum-junpro-modul2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Azka Adhisetama\Documents\Modul2\praktikum-junpro-modul2\obj\Debug\net5.0\praktikum-junpro-modul2.AssemblyInfoInputs.cache
+C:\Users\Azka Adhisetama\Documents\Modul2\praktikum-junpro-modul2\obj\Debug\net5.0\praktikum-junpro-modul2.AssemblyInfo.cs
+C:\Users\Azka Adhisetama\Documents\Modul2\praktikum-junpro-modul2\obj\Debug\net5.0\praktikum-junpro-modul2.csproj.CoreCompileInputs.cache
+C:\Users\Azka Adhisetama\Documents\Modul2\praktikum-junpro-modul2\obj\Debug\net5.0\praktikum-junpro-modul2.dll
+C:\Users\Azka Adhisetama\Documents\Modul2\praktikum-junpro-modul2\obj\Debug\net5.0\refint\praktikum-junpro-modul2.dll
+C:\Users\Azka Adhisetama\Documents\Modul2\praktikum-junpro-modul2\obj\Debug\net5.0\praktikum-junpro-modul2.pdb
+C:\Users\Azka Adhisetama\Documents\Modul2\praktikum-junpro-modul2\obj\Debug\net5.0\praktikum-junpro-modul2.genruntimeconfig.cache
+C:\Users\Azka Adhisetama\Documents\Modul2\praktikum-junpro-modul2\obj\Debug\net5.0\ref\praktikum-junpro-modul2.dll
